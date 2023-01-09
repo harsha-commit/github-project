@@ -1,0 +1,1 @@
+ssh -i "harsha-linux-key.pem" ubuntu@ec2-3-86-42-244.compute-1.amazonaws.com
